@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PayProgressBar">
+
+        <attr name="mainColor" format="color"></attr>
+        <attr name="commonColor" format="color"></attr>
+    </declare-styleable>
+
+</resources>
